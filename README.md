@@ -1,2 +1,2 @@
 # location-based_messages
-Ubiquitous Computing
+An application of location-based messages. 
